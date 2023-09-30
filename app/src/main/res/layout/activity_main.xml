@@ -20,6 +20,10 @@
         android:padding="10dp"
         android:paddingLeft="10dp" />
 
+
+
+<!--    edited by farhana-->
+
     <ImageView
         android:id="@+id/add01"
         android:layout_width="match_parent"
